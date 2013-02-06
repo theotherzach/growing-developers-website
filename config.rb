@@ -1,9 +1,11 @@
 http_path = "/"
 
-sass_dir = "_content/_precompiled/scss"
+project_path = "_content"
 
-css_dir = "_content/assets/stylesheets"
-images_dir = "_content/assets/images"
-javascripts_dir = "_content/assets/javascripts"
+sass_dir = "_precompiled/scss"
+css_dir = "assets/stylesheets"
+images_dir = "assets/images"
+images_path = "assets/images"
+javascripts_dir = "assets/javascripts"
 
 preferred_syntax = :scss

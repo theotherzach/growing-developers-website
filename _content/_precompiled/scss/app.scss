@@ -1,0 +1,24 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-image: image-url('gray_jean.png');
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px
+}
+
+h1, h2, h3, h4, h5 strong {
+  color: #b28b60;
+}
+
+a {
+  color: darken(#57b265, 50%);
+  text-decoration: none;
+  &:visited {
+    color: darken(#96ffa6, 50%);
+  }
+  &:hover {
+    color: darken(#caB0ff, 10%);
+    text-decoration: underline;
+  }
+
+}

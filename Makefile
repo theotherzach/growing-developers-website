@@ -1,5 +1,5 @@
 build:
-	jekyll
+	compass compile && jekyll
 release: build
 	jekyll-s3
 run:
