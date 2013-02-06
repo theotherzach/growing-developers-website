@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: Giving and Getting Feedback
 tags: [published, feedback, latest]
 ---
