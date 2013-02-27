@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Convincing Your Boss To Invest In Your Growth
-tags: [published, leadershup, growth]
+tags: [leadership, growth]
 ---
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/vUR80FLP9Os" frameborder="0">
