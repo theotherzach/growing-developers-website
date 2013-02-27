@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Making The Moust Out of Conferences
+title: Making The Most Out of Conferences
 tags: [latest, conferences]
 ---
 
