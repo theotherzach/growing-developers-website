@@ -1,7 +1,7 @@
 ---
 layout: shownotes
 title: Giving and Getting Feedback
-youtube: vcVTWIpAfcs
+youtube: giR24r7zWo4
 assetname: growing-developers-1-giving-and-getting-feedback
 tags: [feedback]
 ---
