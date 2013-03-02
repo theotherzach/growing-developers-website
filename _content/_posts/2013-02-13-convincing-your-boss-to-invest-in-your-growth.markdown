@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: shownotes
 title: Convincing Your Boss To Invest In Your Growth
-tags: [leadership, growth]
+youtube: 7GBjXJX7K0M
+assetname: growing-developers-2-convincing-your-Boss-to-invest-in-your-growth
+tags: [leadership]
 ---
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/vUR80FLP9Os" frameborder="0">
-</iframe>
-
 
 <em>Apologies for the technical difficulties! I lost internet at the 30 minute
 mark so our ending is a little weak. We'll work on that in future episodes!</em>

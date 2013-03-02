@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: shownotes
 title: Making The Most Out of Conferences
+youtube: H603D4XXx-w
+assetname: growing-developers-3-making-the-most-out-of-conferences
 tags: [latest, conferences]
 ---
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/AjkGjIDnAkw" frameborder="0">
-</iframe>
 ### The Hallway Track
 The hallway track is when you spend time outside of talks, meeting and talking
 with other people instead of attending a specific session.

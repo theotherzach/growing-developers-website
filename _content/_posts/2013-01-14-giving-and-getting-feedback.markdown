@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: shownotes
 title: Giving and Getting Feedback
-tags: [published, feedback, latest]
+youtube: vcVTWIpAfcs
+assetname: growing-developers-1-giving-and-getting-feedback
+tags: [feedback]
 ---
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/T7bhJAvE2i8" frameborder="0">
-</iframe>
-
 
 #### How do we get feedback when remote or a jr developer?
 * Contribute to OSS outside of work, get feedback that way
