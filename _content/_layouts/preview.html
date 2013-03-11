@@ -1,16 +1,13 @@
 ---
 layout: base
 ---
+<p>
+{{ page.description }}
+</p>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0">
-</iframe>
-
-{% if page.tags contains "published" %} 
-<h3><a href="http://media.growingdevelopers.com/{{ page.assetname }}.mp4">Download Video</a></h3>
-<h3><a href="http://media.growingdevelopers.com/{{ page.assetname }}.mp3">Download Audio</a></h3>
-{% endif %}
-
+<p>
 {{ content }}
+</p>
 
 <p><a rel="license"
   href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img
