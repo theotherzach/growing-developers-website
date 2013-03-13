@@ -14,7 +14,7 @@ Then _Growing Developers_ is for you!
 We'd love to address it on air! Just fill out [this lovely
 form](https://docs.google.com/forms/d/1bYEH1zt01TN717INRJstKqmDAFFm7p2MLvudp_AuEtU/viewform).
 
-## Next Show: [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013 11AM PST/2PM EST
+## Latest Show: [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013
 We've all been there. We've been asked to do the impossible, or work with the
 impossible, or finish before anything is possible. In this episode, we talk
 about how to make the most out of those situations!
