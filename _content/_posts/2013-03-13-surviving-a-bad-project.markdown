@@ -1,7 +1,7 @@
 ---
 title: Surviving a Bad Project
 layout: shownotes
-youtube: Ub\_lkuzSGac
+youtube: HzV93EBluOE
 tags: [projects, next]
 description: We've all been there. We've been asked to do the impossible, or
              work with the impossible, or finish before anything is possible. In this
