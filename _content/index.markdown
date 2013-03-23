@@ -9,15 +9,20 @@ the soothing sound of software developers speaking smoothly?
 
 Then _Growing Developers_ is for you!
 
-### Got a Question?
+## Next Show: March 27 at 2pm EST/11AM PST
 
-We'd love to address it on air! Just fill out [this lovely
-form](https://docs.google.com/forms/d/1bYEH1zt01TN717INRJstKqmDAFFm7p2MLvudp_AuEtU/viewform).
+[Vote for a
+Topic](https://trello.com/board/growing-developer-schedule/5132737b2390b6446900290e)
+or [tweet us](http://twitter.com/growingdevelopers) with suggestions!
 
 ## Latest Show: [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013
 We've all been there. We've been asked to do the impossible, or work with the
 impossible, or finish before anything is possible. In this episode, we talk
 about how to make the most out of those situations!
+
+Featuring [Ashe Dryden](http://twitter.com/ashedryden), [Evan
+Light](http://twitter.com/elight), and [Zee
+Spencer](http://www.twitter.com/zspencer)
 
 ## Previous Shows
 
@@ -30,6 +35,7 @@ Sanders](http://twitter.com/isaacsanders) and [Zee
 Spencer](http://www.twitter.com/zspencer) discuss the hallway track, overcoming
 introversion at a conference, and other ways to get the most of your conference
 experience.
+
 ### [Convincing Your Boss To Invest In Your Growth](/convincing-your-boss-to-invest-in-your-growth/) &mdash; February 13, 2013
 
 [Ashe Dryden](http://twitter.com/ashedryden), [Evan
