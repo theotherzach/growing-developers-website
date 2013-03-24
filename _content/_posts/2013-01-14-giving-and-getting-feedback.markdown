@@ -3,7 +3,10 @@ layout: shownotes
 title: Giving and Getting Feedback
 youtube: giR24r7zWo4
 assetname: growing-developers-1-giving-and-getting-feedback
-tags: [feedback]
+tags: [feedback, leadership]
+description: How do we get feedback when remote or junior? How do we give good
+             feedback? What do you give feedback on? Our first episode tackles
+             this tough topic.
 ---
 
 #### How do we get feedback when remote or a jr developer?

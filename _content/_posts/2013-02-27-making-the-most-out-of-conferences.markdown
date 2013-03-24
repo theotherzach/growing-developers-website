@@ -4,6 +4,10 @@ title: Making The Most Out of Conferences
 youtube: H603D4XXx-w
 assetname: growing-developers-3-making-the-most-out-of-conferences
 tags: [latest, conferences]
+description: How do you overcome introversion at a conference? What is this
+             mysterious hallway track people keep talking about? How do you
+             make new professional connections and leave a good impression?
+             This episode is all about improving your conference experience.
 ---
 
 ### The Hallway Track

@@ -4,6 +4,10 @@ title: Convincing Your Boss To Invest In Your Growth
 youtube: 7GBjXJX7K0M
 assetname: growing-developers-2-convincing-your-Boss-to-invest-in-your-growth
 tags: [leadership]
+description: How do you convince your boss to invest in your growth as a
+             developer? Cajoling? Begging? Arm wrestling? However you try to
+             convince them now, this episode is all about helping you do it
+             better.
 ---
 
 <em>Apologies for the technical difficulties! I lost internet at the 30 minute
