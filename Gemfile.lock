@@ -28,6 +28,7 @@ GEM
       liquid (~> 2.3)
       maruku (~> 0.5)
       pygments.rb (~> 0.3.2)
+    jekyll-cdn (0.0.1)
     jekyll-s3 (2.3.0)
       aws-sdk (~> 1.8.0)
       configure-s3-website (~> 1.1)
@@ -61,4 +62,5 @@ DEPENDENCIES
   compass
   foreman
   jekyll
+  jekyll-cdn
   jekyll-s3

@@ -1,4 +1,4 @@
-http_path = "/"
+http_path = (environment == :production) ? "http://assets.growingdevelopers.com/" : "/"
 
 project_path = "_content"
 

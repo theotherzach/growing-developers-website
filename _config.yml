@@ -1,3 +1,6 @@
 ---
 source: _content
 permalink:   /:categories/:title
+asset_url:
+  - local: /assets
+  - hosted: http://assets.growingdevelopers.com/assets

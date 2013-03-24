@@ -2,3 +2,7 @@ s3_id: <%=ENV['AWS_ACCESS_KEY_ID']%>
 s3_secret: <%=ENV['AWS_SECRET_ACCESS_KEY']%>
 s3_bucket: growingdevelopers.com
 cloudfront_distribution_id: E2Y5X1333L1F27
+gzip:
+  - .html
+  - .js
+  - .css
