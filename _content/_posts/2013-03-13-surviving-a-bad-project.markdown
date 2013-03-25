@@ -2,6 +2,7 @@
 title: Surviving a Bad Project
 layout: shownotes
 youtube: HzV93EBluOE
+authors: [ashe-dryden, evan-light, zee-spencer]
 tags: [projects, next]
 description: We've all been there. We've been asked to do the impossible, or
              work with the impossible, or finish before anything is possible. In this

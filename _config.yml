@@ -4,3 +4,26 @@ permalink:   /:categories/:title
 asset_url:
   - local: /assets
   - hosted: http://assets.growingdevelopers.com/assets
+
+authors:
+  - ashe-dryden:
+    - name: Ashe Dryden
+    - url: http://twitter.com/ashedryden
+  - cory-flanigan:
+    - name: Cory Fanigan
+    - url: http://twitter.com/seeflanigan
+  - dave-hoover:
+    - name: Dave Hoover
+    - url: http://twitter.com/davehoover
+  - evan-light:
+    - name: Evan Light
+    - url: http://twitter.com/elight
+  - isaac-sanders:
+    - name: Isaac Sanders
+    - twitter: http://twitter.com/isaacsanders
+  - matt-weitzel:
+    - name: Matt Weitzel
+    - twitter: http://twitter.com/weitzelb
+  - michael-hall:
+    - name: Michael Hall
+    - twitter: http://twitter.com/just3ws
