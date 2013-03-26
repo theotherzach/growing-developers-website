@@ -15,6 +15,9 @@ As developers, we often have to take our education into our own hands. In this
 episode, we expose some of the myths surrounding educating yourself and share
 techniques for amping your growth.
 
+Tweet your insights to [@growdevelopers](http://twitter.com/growdevelopers) and
+you may be referenced in the show!
+
 ## Latest Show: [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013
 
 We've all been there. We've been asked to do the impossible, work with the
