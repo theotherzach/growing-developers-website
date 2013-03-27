@@ -2,7 +2,7 @@
 title: Surviving a Bad Project
 layout: shownotes
 youtube: HzV93EBluOE
-tags: [projects, next]
+tags: [projects]
 description: We've all been there. We've been asked to do the impossible, or
              work with the impossible, or finish before anything is possible. In this
              episode, we talk about how to make the most out of those situations!

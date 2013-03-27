@@ -9,16 +9,18 @@ the soothing sound of software developers speaking smoothly?
 
 Then _Growing Developers_ is for you!
 
-## Next Show: [Self Directed Learning](/self-directed-learning-part-1) &mdash; March 27 at 2pm EST/11AM PST
+## Latest Show: [Self Directed Learning](/self-directed-learning-part-1) &mdash; March 27, 2013
 
-As developers, we often have to take our education into our own hands. In this
-episode, we expose some of the myths surrounding educating yourself and share
-techniques for amping your growth.
+As developers, we often have to take our education into our own hands. In this episode, we discuss reading the source, going it alone, and learning from books.
 
-Tweet your insights to [@growdevelopers](http://twitter.com/growdevelopers) and
-you may be referenced in the show!
+Featuring [Evan Light](http://twitter.com/elight),
+[Geoff Petri](http://twitter.com/geopet),
+[Zach Briggs](http://twitter.com/theotherzach),
+and [Zee Spencer](http://twitter.com/zspencer)
 
-## Latest Show: [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013
+## Previous Shows
+
+### [Surviving a Bad Project](/surviving-a-bad-project) &mdash; March 13, 2013
 
 We've all been there. We've been asked to do the impossible, work with the
 impossible, or finish before anything is possible. In this episode, we talk
@@ -27,8 +29,6 @@ about how to make the most out of those situations!
 Featuring [Ashe Dryden](http://twitter.com/ashedryden), [Evan
 Light](http://twitter.com/elight), and [Zee
 Spencer](http://www.twitter.com/zspencer).
-
-## Previous Shows
 
 ### [Making the Most of a Conference](/making-the-most-out-of-conferences) &mdash; February 27, 2013
 
