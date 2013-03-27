@@ -1,5 +1,5 @@
 ---
-title: Self Directed Learning
+title: Self Directed Learning - Part I
 layout: preview
 authors: [evan-light, geoff-petri, zach-briggs, zee-spencer]
 tags: [learning, next]
