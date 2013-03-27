@@ -9,7 +9,7 @@ the soothing sound of software developers speaking smoothly?
 
 Then _Growing Developers_ is for you!
 
-## Next Show: [Self Directed Learning](/self-directed-learning) &mdash; March 27 at 2pm EST/11AM PST
+## Next Show: [Self Directed Learning](/self-directed-learning-part-1) &mdash; March 27 at 2pm EST/11AM PST
 
 As developers, we often have to take our education into our own hands. In this
 episode, we expose some of the myths surrounding educating yourself and share
